@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    color: purple;
+}
+
+img.profile {
+    width: 100px;
+    border-radius: 50%;
+}
